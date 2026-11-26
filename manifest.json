@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "joma.mark-that",
+  "name": "Mark that",
+  "version": "1.0.1",
+  "author": "joma",
+  "description": "Mark a desktop glitch and compare saved incidents with Codex.",
+  "kinds": ["bar-widget"],
+  "entryPoints": {"barWidget": "ui/MarkWidget.qml"},
+  "barWidget": {
+    "displayName": "Mark that",
+    "description": "Capture a glitch or review recent marks.",
+    "category": "Tools",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}

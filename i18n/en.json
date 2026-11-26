@@ -1,0 +1,16 @@
+{
+  "title": "Mark that",
+  "tooltip": "Mark a glitch · Right-click for recent marks",
+  "note": "What happened? Type or dictate a note.",
+  "save": "Save mark",
+  "history": "Recent marks",
+  "compare": "Compare in Codex",
+  "pick": "Select at least two incidents to compare.",
+  "empty": "Your saved marks will appear here.",
+  "loading": "Loading marks…",
+  "error": "Couldn’t complete that action. Try again.",
+  "unknown": "Unknown app",
+  "workspace": "Workspace %1",
+  "saved": "Mark saved",
+  "noNote": "No note"
+}
